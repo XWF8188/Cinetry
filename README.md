@@ -5,8 +5,6 @@ Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件
 # 下载
 [Github](https://github.com/XWF8188/Cinetry/releases)  
 
-[123云盘](https://www.123865.com/s/3tw0Td-2dOkh)
-
 ## TODO
 - Web(docker版)适配中
 
@@ -16,8 +14,6 @@ Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件
 
 ### 下载地址
 [github](https://github.com/XWF8188/Cinetry/releases) 
-
-[123网盘](https://www.123865.com/s/3tw0Td-2dOkh)
 
 ## Star History
 
