@@ -20,7 +20,7 @@ Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件
 [123网盘](https://www.123865.com/s/3tw0Td-2dOkh)
 
 ## Star
-[![Stargazers over time](https://starchart.cc/gstory0404/Cinetry.svg?variant=adaptive)](https://starchart.cc/gstory0404/Cinetry)
+[![Stargazers over time](https://starchart.cc/XWF8188/Cinetry.svg?variant=adaptive)](https://starchart.cc/XWF8188/Cinetry)
 
 # 申明
 - Cinetry是一款免费工具，旨在为用户提供便捷的方式，通过用户自行配置的内容管理系统（CMS）、IPTV、WebDav、AList、OpenList、Jellyfin、Emby等服务来展示、搜索和播放影片。本应用本身不托管、存储或分发任何影视内容，也不提供任何影视资源或相关链接。所有内容的获取、展示和播放均由用户提供的 CMS、Jellyfin 或 Emby 服务决定。
