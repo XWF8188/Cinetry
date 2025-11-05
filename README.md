@@ -15,13 +15,9 @@ Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件
 | <img src="https://raw.githubusercontent.com/gstory0404/Cinetry/a8c26bf590ce5f95e9e864f98cfde01ad9a9a402/pc.png" width="500" alt="Image 1"> | <img src="https://raw.githubusercontent.com/gstory0404/Cinetry/a8c26bf590ce5f95e9e864f98cfde01ad9a9a402/phone.jpg" width="200" alt="Image 2"> |
 
 ### 下载地址
-[github](https://github.com/XWF8188/Cinetry/releases)  [123网盘](https://www.123865.com/s/3tw0Td-2dOkh)
+[github](https://github.com/XWF8188/Cinetry/releases) 
 
-### 支持
-
-开发维护不易，支持作者
-
-<img src="https://file.gstory.cn/my/wechatds.png" width="180" alt="Image 1"> 
+[123网盘](https://www.123865.com/s/3tw0Td-2dOkh)
 
 ## Star
 [![Stargazers over time](https://starchart.cc/gstory0404/Cinetry.svg?variant=adaptive)](https://starchart.cc/gstory0404/Cinetry)
